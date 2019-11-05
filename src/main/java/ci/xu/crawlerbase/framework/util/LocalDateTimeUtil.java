@@ -1,4 +1,4 @@
-package ci.xu.crawlerbase.frameword.util;
+package ci.xu.crawlerbase.framework.util;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;

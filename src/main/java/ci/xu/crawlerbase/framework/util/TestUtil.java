@@ -1,4 +1,4 @@
-package ci.xu.crawlerbase.frameword.util;
+package ci.xu.crawlerbase.framework.util;
 
 public class TestUtil {
     public static void main(String[] args) {
